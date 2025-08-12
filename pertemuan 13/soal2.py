@@ -7,17 +7,17 @@
 
 """
 """
-# Membuat list jadwal Senin
+ # Membuat list jadwal Senin
 jadwal_senin = ["Matematika", "Bahasa Indonesia", "Olahraga", "Sejarah"]
 
 # Cetak seluruh list
-print(jadwal_senin)
+print("jadwal senin:",jadwal_senin)
 
 # Cetak hanya mata pelajaran pertama
-print(jadwal_senin[0])
+print("mata pelajaran ke siji:",jadwal_senin[0])
 
 # Cetak mata pelajaran terakhir (indeks negatif)
-print(jadwal_senin[-1])
+print("mata pelajaran ke loro:",jadwal_senin[-1])
 """
 
 #(2) Mengganti "Olahraga" menjadi "Kimia"

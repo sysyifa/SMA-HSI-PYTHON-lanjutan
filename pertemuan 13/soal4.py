@@ -19,4 +19,4 @@ seminggu = awal_minggu + akhir_minggu
 hari_kerja = seminggu[0:5]
 
 # Cetak hari kerja
-print(hari_kerja)
+print("hari kerja:",hari_kerja)

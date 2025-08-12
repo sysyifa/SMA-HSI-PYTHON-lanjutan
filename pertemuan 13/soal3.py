@@ -8,6 +8,8 @@ setiap elemen.
 
 
 """
+
+
 # List nilai mentah
 nilai_mentah = [55, 63, 72, 81, 90]
 
@@ -16,4 +18,4 @@ for i in range(len(nilai_mentah)):
     nilai_mentah[i] += 5
 
 # Cetak list yang sudah diperbarui
-print(nilai_mentah)
+print("nilai:",nilai_mentah)
