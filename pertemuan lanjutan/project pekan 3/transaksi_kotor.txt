@@ -1,0 +1,5 @@
+
+001, budi , Laptop , 2 , 7500000
+002, Siti,   Mouse, 3, 120000
+003, Andi , Keyboard,1, 350000
+004, Rina , Monitor , 2, 1250000

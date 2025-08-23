@@ -6,7 +6,7 @@
 . Cetak list jadwal_senin yang sudah diperbarui.
 
 """
-"""
+
  # Membuat list jadwal Senin
 jadwal_senin = ["Matematika", "Bahasa Indonesia", "Olahraga", "Sejarah"]
 
@@ -18,7 +18,7 @@ print("mata pelajaran ke siji:",jadwal_senin[0])
 
 # Cetak mata pelajaran terakhir (indeks negatif)
 print("mata pelajaran ke loro:",jadwal_senin[-1])
-"""
+
 
 #(2) Mengganti "Olahraga" menjadi "Kimia"
 jadwal_senin[2] = "Kimia"
